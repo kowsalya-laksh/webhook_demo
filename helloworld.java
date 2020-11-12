@@ -6,7 +6,8 @@ public class helloworld {
 
    public static void main(String []args) {
       System.out.println("Hello World");
-      System.out.println("Welcome to Webhook demo");
+      System.out.println("Welcome to Poll SCM Trigger");
+      System.out.println("Welcome to webhook demo");
       // prints Hello World
    }
 }
