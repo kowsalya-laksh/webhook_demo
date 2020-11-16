@@ -8,7 +8,7 @@ public class helloworld {
       System.out.println("Hello World");
       System.out.println("Welcome to Poll SCM Trigger");
       System.out.println("Welcome to webhook demo");
-      System.out.println("Welcome to jenkins");
+      System.out.println("Welcome to jenkins updation");
       // prints Hello World
    }
 }
